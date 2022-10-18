@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "https://media.istockphoto.com/photos/books-picture-id949118068"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 1199,
+        "imgUrl": "https://media.istockphoto.com/photos/illustration-laptop-isolated-on-white-background-laptop-with-empty-picture-id1023428598"
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "price": 1.05,
+        "imgUrl": "https://media.istockphoto.com/photos/banana-picture-id120492078"
+    },
+    {
+        "id": 4,
+        "name": "Car",
+        "price": 14000,
+        "imgUrl": "https://media.istockphoto.com/photos/illustration-of-generic-compact-white-car-front-side-view-picture-id1150931120"
+    }
+]
